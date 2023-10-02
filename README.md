@@ -1,0 +1,2 @@
+# <h1 align="center"><Image src={LogoImage} alt="Logo" borderRadius="full" />Stone & Brier General Store</h1>
+    e-commerce store made with create-react-app and Fullstack Academy Frontend Starter, using [this API](https://fakestoreapi.com/). Capstone {Final} Project for Jeremy E. Jefferson; Fullstack Academy {Amazon Career Choice} coding boot-camp. It was a long and bumpy journey ride but I certainly learned a lot.
