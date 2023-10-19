@@ -43,9 +43,10 @@ const Header = (props) => {
       >
         <Flex
           align={["center", "center", "center", "center"]}
-          justify={["center", "center", "flex-end", "flex-end"]}
+          justify={["center", "center", "center", "center"]}
           direction={["column", "column", "row", "row"]}
-          pt={[4, 4, 12, 0]}
+          pt={[4, 4, 0, 0]}
+          pb={[4, 4, 2, 0]}
         >
           <MenuItems to="/Home">Home</MenuItems>
           <MenuItems to="/About">About Us</MenuItems>
