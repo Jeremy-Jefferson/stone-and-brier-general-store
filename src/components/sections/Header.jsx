@@ -22,11 +22,10 @@ const Header = (props) => {
     <Flex
       as="nav"
       align="center"
-      justify="space-between"
+      justify="space-around"
       wrap="wrap"
       w="100%"
       mb={8}
-      p={8}
       bg="primary.300"
       color="white"
       fontWeight="bold"
@@ -34,11 +33,8 @@ const Header = (props) => {
       textShadow="1px 1.5px #064C2E"
       {...props}
     >
-      <Flex align="center">
-        <Logo w="100px" />
-        <Heading fontSize="3xl" position="absolute" ml="110px">
-          Stone & Brier General Store
-        </Heading>
+      <Flex align="center" p={2}>
+        <Logo w="150px"/>
       </Flex>
 
       <Box

@@ -16,11 +16,11 @@
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "@stripe/react-stripe-js": "^2.3.1",
-    "@stripe/stripe-js": "^2.1.7",
+    "@stripe/stripe-js": "^2.1.9",
     "framer-motion": "^10.16.4",
     "react-dom": "^18.2.0",
     "react-icons": "^4.11.0",
-    "react-router-dom": "^6.16.0",
+    "react-router-dom": "^6.17.0",
     "react-scripts": "^5.0.1"
   },
   "proxy": "http://localhost:3000",
