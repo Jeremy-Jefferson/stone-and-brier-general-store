@@ -1,7 +1,7 @@
 {
   "name": "capstone_store",
   "version": "1.0.0",
-  "homepage": "https://stone-and-brier-general-store.vercel.app/Home",
+  "homepage": "https://stone-and-brier-general-store.vercel.app",
   "description": "",
   "main": "index.jsx",
   "scripts": {
