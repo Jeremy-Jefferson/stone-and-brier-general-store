@@ -1,7 +1,7 @@
 import React, { useContext } from "react";
 import { useParams } from "react-router-dom";
-import { ProductContext } from "/home/jeremy_jefferson/WEB-DEV/SB-general-store/stone-and-brier-general-store/src/context/productContext.jsx";
-import { CartContext } from "/home/jeremy_jefferson/WEB-DEV/SB-general-store/stone-and-brier-general-store/src/context/cartContext.jsx";
+import { ProductContext } from "../context/productContext";
+import { CartContext } from "../context/cartContext.jsx";
 import {
   Box,
   Text,
