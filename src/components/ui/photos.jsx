@@ -1,10 +1,10 @@
 import React from "react";
 import { Box, Image } from "@chakra-ui/react";
-import LogoImage from ".logo.png";
-import MensFall from ".mensfallessentials.jpg";
-import WomensFall from ".womensfall.jpg";
-import FallJewelry from ".jewelry.jpg";
-import HomeTech from ".hometech.jpg";
+import LogoImage from "./images/logo.png";
+import MensFall from "./mensfallessentials.jpg";
+import WomensFall from "./images/womensfall.jpg";
+import FallJewelry from "./images/jewelry.jpg";
+import HomeTech from "./images/hometech.jpg";
 
 // Logo image declaration and props
 function Logo(props) {
