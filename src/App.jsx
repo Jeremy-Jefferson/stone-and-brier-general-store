@@ -5,7 +5,7 @@ import { ProductContextProvider } from "./context/productContext";
 import Header from "./components/sections/Header";
 import Footer from "./components/sections/Footer";
 import Home from "./pages/Home";
-import Product from "./pages/product/Product";
+import Product from "./pages/Product";
 import Products from "./pages/Products";
 import Cart from "./pages/Cart";
 import Checkout from "./pages/Checkout";
