@@ -1,7 +1,7 @@
 import React from "react";
 import { Box, Image } from "@chakra-ui/react";
 import LogoImage from "./images/logo.png";
-import MensFall from "./mensfallessentials.jpg";
+import MensFall from "./images/mensfallessentials.jpg";
 import WomensFall from "./images/womensfall.jpg";
 import FallJewelry from "./images/jewelry.jpg";
 import HomeTech from "./images/hometech.jpg";
