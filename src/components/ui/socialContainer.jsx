@@ -14,7 +14,7 @@ const SocialButtons = () => {
       <IconButton
         as="a"
         target="_blank"
-        href="https://www.facebook.com/therealhungryghost/"
+        href="https://www.facebook.com/jeremyejefferson/"
         color="primary.900"
         aria-label="FB"
         fontSize="2xl"
